@@ -1,6 +1,4 @@
-# Function to check if the
-# assignment of digits to
-# characters is possible
+
 def isSolvable(words, result):
     # Stores the value
     # assigned to alphabets
